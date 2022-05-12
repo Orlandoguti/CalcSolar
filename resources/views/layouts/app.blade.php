@@ -27,7 +27,7 @@
 			<div class="navbar-header">
 				<!-- Button for smallest screens -->
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="Progressus HTML5 template" style="width: 100px;"><e>Calc Solar - UNIFRANZ</e></a>
+				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="Progressus HTML5 template" style="width: 100px;"><e>CPSB - UNIFRANZ</e></a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
@@ -69,7 +69,7 @@
     </div>
     
 </div> <!-- /row -->
-
+</div>
 <footer id="footer" class="top-space">
 
 <div class="footer1">
@@ -110,6 +110,7 @@
         </div> <!-- /row of widgets -->
     </div>
 </div>
+
 <div class="footer2">
     <div class="container">
         <div class="row">
@@ -138,8 +139,7 @@
     </div>
 </div>
 
-</footer>
-
+</footer>	
 
 
 
